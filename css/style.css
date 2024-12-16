@@ -25,11 +25,11 @@
 }
 :root{
     /* Background Color */
-    --bg-black:#090b3c;
+    --bg-black:#091f3c;
     --bg-white:#fff;
     --bg-light-white:#fcfcfc;
     --bg-light-2:#f2f7fa;
-    --bg-dark-green:#0e9d80;
+    --bg-dark-green:#0e399d;
     --bg-features-1:#fff6d6;
     --bg-features-2:#ebdcf9;
     --bg-features-3:#ddf5fc;
@@ -44,9 +44,9 @@
     --text-light-2:#798089;
     --text-light-3:#5e5e72;
     --text-light-4:#A0A0A0;
-    --text-dark-green:#12c4a0;
-    --text-orange:#ff5d2a;
-    --text-yellow:#ffc100;
+    --text-dark-green:#1250c4;
+    --text-orange:#2a6eff;
+    --text-yellow:#0062ff;
 
     /* Fonts */
     --primary-font: Quicksand;
